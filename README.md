@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @adrianfree01
-- 👀 I’m interested in Cyber Security and Low Level Programming
-- 🌱 I’m currently learning about Emulation
-- 💞️ I’m looking to collaborate on ...
+- 💼 Associate at IBM Consulting, SAP practice (ABAP, BTP, Integration Suite)
+- 👀 I’m interested in AI tooling and agents, self-hosting, and low-level programming
+- 🌱 I’m currently learning SAP ABAP through practice, as well as working on my AWS Security Specialty cert!
+- 🛠️ Working on: Personal Finance Tracker & AI Tool Manager / Configurer
+- 💞️ I’m looking to collaborate on AI tooling ideas, as well as any open source resources.
 - 📫 How to reach me: adrianfree01@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
-
-<!---
-adrianfree01/adrianfree01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: my homelab runs on an Arch box I set up myself (yes, I use Arch btw)
