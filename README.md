@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @adrianfree01
 - 💼 Associate at IBM Consulting, SAP practice (ABAP, BTP, Integration Suite)
 - 👀 I’m interested in AI tooling and agents, self-hosting, and low-level programming
-- 🌱 I’m currently learning SAP ABAP through practice, as well as working on my AWS Security Specialty cert!
-- 🛠️ Working on: Personal Finance Tracker & AI Tool Manager / Configurer
-- 💞️ I’m looking to collaborate on AI tooling ideas, as well as any open source resources.
+- 🌱 I’m currently learning SAP ABAP through practice, as well as working on my AWS Security Specialty cert.
+- 🛠️ Working on: OpenGL Game engine in C & AI Tool Manager / Configurer
+- 💞️ I’m looking to collaborate on performance optimization issues in C
 - 📫 How to reach me: adrianfree01@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: my homelab runs on an Arch box I set up myself (yes, I use Arch btw)
